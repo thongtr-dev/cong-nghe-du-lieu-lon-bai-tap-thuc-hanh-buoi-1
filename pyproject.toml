@@ -1,0 +1,9 @@
+[project]
+name = "23210287"
+version = "0.1.0"
+description = "Bai tap thuc hanh buoi 1"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyspark>=4.0.0",
+]
